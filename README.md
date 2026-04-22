@@ -1,28 +1,17 @@
-# Data Projects Portfolio
+# SaaS Revenue Dashboard
 
-Welcome to my Data Projects Portfolio! This repository showcases various data analysis projects and dashboards that I have worked on.
+This interactive Tableau dashboard analyzes key SaaS revenue metrics, including Total Revenue, Paid Users Count, and ARPPU across various locations and software products. It features dynamic filters and detailed visualizations, such as transaction distributions and monthly revenue trends, to facilitate data-driven business decisions.
 
-## Project Categories
+## Technologies
 
-- **Data Analysis**  
-- **Data Visualization**  
-- **Machine Learning**  
-- **Dashboards**  
+Tableau, CSV
 
-## Project Template
+## Live Dashboard
 
-### Project Title
+[View the SaaS Revenue Dashboard](https://public.tableau.com/app/profile/anton.hakal/viz/SaaSRevenueDashboard_17767843114570/Dashboard1)
 
-- **Description:**  
-  _A brief overview of what the project is about._  
+---
 
-- **Technologies Used:**  
-  _List of technologies used in the project (e.g., Python, R, SQL, Tableau)._  
+# Project Template
 
-- **Links:**  
-  - [Live Dashboard](URL to the dashboard)  
-  - [GitHub Repository](URL to the project repository)  
-  
----  
-
-Feel free to explore the projects and learn more about my work!
+This section has been replaced with the actual SaaS Revenue Dashboard project.
