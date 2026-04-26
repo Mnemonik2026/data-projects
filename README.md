@@ -24,7 +24,8 @@ Python, SQL, API, CSV, Power BI
 ## Image
 ### 📈 Interactive Brent Oil Price Analysis Dashboard (Python & Power BI)
 
-![Brent Oil Dashboard](./images/brent-oil-dashboard.png)
+![Brent Oil Dashboard](https://github.com/Mnemonik2026/data-projects/blob/main/image_original%20(1).jpeg)
+![Brent Oil Dashboard](https://github.com/Mnemonik2026/data-projects/blob/main/image_original.jpeg)
 
 I developed a comprehensive data visualization tool...
 
