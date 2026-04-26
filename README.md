@@ -12,6 +12,11 @@ Tableau, CSV
 
 ---
 
-# Project Template
 
-This section has been replaced with the actual SaaS Revenue Dashboard project.
+### 📈 Interactive Brent Oil Price Analysis Dashboard (Python & Power BI)
+
+I developed a comprehensive data visualization tool to analyze 30 years of Brent Oil historical price trends (1996-2026). This project demonstrates my ability to handle the full data lifecycle: from raw data extraction to interactive business intelligence.
+
+**Technologies:** Python, SQL, API, CSV, Power BI
+
+---
