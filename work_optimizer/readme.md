@@ -25,3 +25,5 @@ Telegram Bot API & smtplib: Setting up automated messaging and email distributio
 
 ## Impact:
 By fully automating the routine data collection, calculation, and reporting processes, this application saves me approximately one hour of manual work every single day.
+![Azs_control_panel](<img width="880" height="983" alt="AZS_control_panel" src="https://github.com/user-attachments/assets/1efad14c-568a-4afb-9b55-67f648983c96" />
+
